@@ -1747,7 +1747,7 @@ class CfgExileEnvironment
 
 		class Radiation: Radiation
 		{
-			enable = 1;
+			enable = 0;
 			contaminatedZones[] =
 			{
 				{{3960.14,	8454.75,	152.862}, 	80, 	140},	// Object A1
@@ -1799,7 +1799,7 @@ class CfgExileEnvironment
 	{
 		class FireFlies: FireFlies
 		{
-			enable = 1;
+			enable = 0;
 		};
 
 		class Anomalies: Anomalies
@@ -2783,24 +2783,24 @@ class CfgLocker
 class CfgPlayer
 {
 	// In minutes ammount of time it takes to go from 100 - 0 if stationary
-	hungerDecay = 90;
-	thirstDecay = 60;
+	hungerDecay = 100;
+	thirstDecay = 100;
 
 	// Damage taken from 0 (health||thirst)/sec
-	healthDecay = 5.0;
+	healthDecay = 1.0;
 
 	// Health regen if over BOTH
-	thirstRegen = 90;
-	hungerRegen = 90;
+	thirstRegen = 100;
+	hungerRegen = 100;
 
 	// IF above meet recover HP%/MIN
-	recoveryPerMinute = 2;
+	recoveryPerMinute = 10;
 
 	// Set custom aim precision coefficient for weapon sway
 	// https://community.bistudio.com/wiki/Arma_3_Stamina
 	// Set to -1 if you want to use Arma 3 default value
 	// setCustomAimCoef
-	customAimCoefficient = 0.5;
+	customAimCoefficient = 0.2;
 
 	// 0 or 1
 	enableFatigue = 0;

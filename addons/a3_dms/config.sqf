@@ -76,9 +76,9 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 	DMS_SpawnFlareOnReinforcements		= true;						// Whether or not to spawn a flare and noise when AI reinforcements have spawned.
 	/*General settings for static missions*/
 
-	DMS_playerNearRadius				= 200;						// How close a player has to be to a mission in order to satisfy the "playerNear" mission requirement (can be customized per mission).
+	DMS_playerNearRadius				= 400;						// How close a player has to be to a mission in order to satisfy the "playerNear" mission requirement (can be customized per mission).
 
-	DMS_AI_KillPercent					= 100;						// The percent amount of AI that need to be killed for "killPercent" mission requirement (NOT IMPLEMENTED)
+	DMS_AI_KillPercent					= 80;						// The percent amount of AI that need to be killed for "killPercent" mission requirement (NOT IMPLEMENTED)
 
 	/*Mission Marker settings*/
 	DMS_ShowDifficultyColorLegend		= true;						// Whether or not to show a "color legend" at the bottom left of the map that shows which color corresponds to which difficulty. I know it's not very pretty, meh.
@@ -294,7 +294,7 @@ DMS_SpawnMissions_Scheduled = false;	// Whether or not to spawn missions in a sc
 											//"saltflats"			//<--Example
 											//"slums"				//<--Example
 											//"occupation"			//<--Example
-											//"sectorB"				//<--Example for Taviana
+											"sectorB"				//<--Example for Taviana
 										];
 
 
