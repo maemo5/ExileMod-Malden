@@ -46,7 +46,7 @@ class CfgClans
 		Maximum poly markers per clan
 
 	*/
-	maximumPolys = 5;
+	maximumPolys = 10;
 
 
 	/*
