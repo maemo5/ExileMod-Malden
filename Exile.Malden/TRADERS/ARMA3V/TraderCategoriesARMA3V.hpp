@@ -141,7 +141,11 @@
 			"B_G_Offroad_01_armed_F",
 			"B_MRAP_01_gmg_F",
 			"B_MRAP_01_hmg_F",
+<<<<<<< HEAD:Exile.Malden/TRADERS/ARMA3V/TraderCategoriesARMA3V.hpp
 			"I_APC_Wheeled_03_cannon_F",
+=======
+			//"I_APC_Wheeled_03_cannon_F",
+>>>>>>> parent of 6a91406... fixing traders:Exile.Malden/TRADERS/ARMA3V/TraderCategoriesARMA3V.hpp
 			"I_MRAP_03_gmg_F",
 			"I_MRAP_03_hmg_F",
 			"O_G_Offroad_01_armed_F",
