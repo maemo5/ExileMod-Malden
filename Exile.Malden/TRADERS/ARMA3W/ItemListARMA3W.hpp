@@ -19,24 +19,24 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Launchers
 	///////////////////////////////////////////////////////////////////////////////	
-	class launch_B_Titan_F  						{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_B_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_I_Titan_F  						{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_I_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_NLAW_F  							{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_O_Titan_F 							{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_O_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_RPG32_F   							{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_Titan_F  							{ quality = 3; price = 7500; sellPrice = 1500; }; 
-	class launch_Titan_short_F 						{ quality = 3; price = 7500; sellPrice = 1500; }; 	
+	//class launch_B_Titan_F  						{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_B_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_I_Titan_F  						{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_I_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	  class launch_NLAW_F  							{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_O_Titan_F 							{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_O_Titan_short_F  					{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_RPG32_F   							{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_Titan_F  							{ quality = 3; price = 7500; sellPrice = 1500; }; 
+	//class launch_Titan_short_F 						{ quality = 3; price = 7500; sellPrice = 1500; }; 	
 	
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo
 	///////////////////////////////////////////////////////////////////////////////
-	class NLAW_F									{ quality = 1; price = 3000; };
+	//class NLAW_F									{ quality = 1; price = 3000; };
 	class RPG32_F									{ quality = 1; price = 3000; };
 	class RPG32_HE_F                                { quality = 1; price = 3000; };
-	class Titan_AA									{ quality = 1; price = 3000; };
-	class Titan_AP									{ quality = 1; price = 3000; };	
-	class Titan_AT									{ quality = 1; price = 3000; };
+	//class Titan_AA									{ quality = 1; price = 3000; };
+	//class Titan_AP									{ quality = 1; price = 3000; };	
+	//class Titan_AT									{ quality = 1; price = 3000; };
 	
