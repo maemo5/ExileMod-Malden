@@ -277,11 +277,11 @@ class ApexTools
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		//"Laserdesignator_01_khk_F",
+		"Laserdesignator_01_khk_F",
 		"Laserdesignator_02_ghex_F",
-		//"NVGogglesB_blk_F",
-		//"NVGogglesB_grn_F",
-		//"NVGogglesB_gry_F",
+		"NVGogglesB_blk_F",
+		"NVGogglesB_grn_F",
+		"NVGogglesB_gry_F",
 		"NVGoggles_tna_F",
 		"O_NVGoggles_ghex_F",
 		"O_NVGoggles_hex_F",

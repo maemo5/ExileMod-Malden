@@ -1083,13 +1083,12 @@
 		items[] =
 		{
 			"Exile_Bike_QuadBike_Black",
-			//"Exile_Car_BRDM2_HQ",
+			"Exile_Car_BRDM2_HQ",
 			"Exile_Car_BTR40_Green",
-			"Exile_Car_BTR40_Camo",
-			//"Exile_Car_BTR40_MG_Green",
+			"Exile_Car_BTR40_MG_Green",
 			"Exile_Car_Golf_Red",
 			"Exile_Car_HMMWV_M134_Green",
-			//"Exile_Car_HMMWV_M2_Green",
+			"Exile_Car_HMMWV_M2_Green",
 			"Exile_Car_HMMWV_MEV_Green",
 			"Exile_Car_HMMWV_UNA_Green",
 			"Exile_Car_Hatchback_Rusty1",
