@@ -4082,7 +4082,7 @@ class CfgSettings
 			weather type of be more dominant compared to others, add it multiple times
 		*/
 		//keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"};
-		keyframes[] = {"Sunny"};
+		keyframes[] = {"Sunny", "Cloudy", "Thunderstorm"};
 
 		/*
 			This is a keyframe. Look up the BIKI to get more details about the parameters
@@ -4153,7 +4153,7 @@ class CfgSettings
 		// time in ARMA FORMAT << CONFIG
 		// https://community.bistudio.com/wiki/setDate
 
-		staticTime[] = {1986,4,25,16,0};
+		staticTime[] = {2039,10,24,15,30};
 	};
 
 
