@@ -1,4 +1,4 @@
-/*  
+/*
 	RscTitles.cpp
 
 	Copyright 2016 Jan Babor
@@ -17,4 +17,4 @@
 */
 
 
-//#include "StatsBar\RscTitles.cpp"
+#include "StatsBar\RscTitles.cpp"

@@ -46,8 +46,8 @@
 	class B_ViperLightHarness_hex_F        			{ quality = 2; price = 200; };
 	class B_ViperLightHarness_khk_F        			{ quality = 2; price = 200; };
 	class B_ViperLightHarness_oli_F        			{ quality = 2; price = 200; };
-	class H_Beret_gen_F              				{ quality = 2; price = 12; };
-	class H_Booniehat_tna_F          				{ quality = 1; price = 4; };
+	class H_Beret_gen_F              				    { quality = 2; price = 12; };
+	class H_Booniehat_tna_F          				    { quality = 1; price = 4; };
 	class H_Cap_blk_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_Cap_grn_Syndikat_F       				{ quality = 1; price = 6; };
 	class H_Cap_oli_Syndikat_F       				{ quality = 1; price = 6; };
@@ -55,7 +55,7 @@
 	class H_FakeHeadgear_Syndikat_F  				{ quality = 1; price = 6; };
 	class H_HelmetB_Enh_tna_F        				{ quality = 4; price = 100; };
 	class H_HelmetB_Light_tna_F      				{ quality = 2; price = 20; };
-	class H_HelmetB_TI_tna_F          				{ quality = 4; price = 100; };
+	class H_HelmetB_TI_tna_F          			{ quality = 4; price = 100; };
 	class H_HelmetB_tna_F            				{ quality = 3; price = 50; };
 	class H_HelmetCrew_O_ghex_F      				{ quality = 3; price = 75; };
 	class H_HelmetLeaderO_ghex_F     				{ quality = 5; price = 175; };
@@ -69,7 +69,7 @@
 	class H_MilCap_gen_F             				{ quality = 1; price = 10; };
 	class H_MilCap_ghex_F            				{ quality = 1; price = 8; };
 	class H_MilCap_tna_F             				{ quality = 1; price = 8; };
-	class LMG_03_F					  				{ quality = 2; price = 300; };
+	class LMG_03_F					  				      { quality = 2; price = 300; };
 	/*
 	class Laserdesignator_01_khk_F    				{ quality = 1; price = 1000; };	//Thermal
 	class Laserdesignator_02_ghex_F   				{ quality = 1; price = 1000; };	//Thermal
@@ -81,7 +81,7 @@
 	class O_NVGoggles_ghex_F          				{ quality = 3; price = 150; };
 	class O_NVGoggles_hex_F           				{ quality = 3; price = 150; };
 	class O_NVGoggles_urb_F           				{ quality = 3; price = 150; };
-	class SMG_05_F					  				{ quality = 1; price = 150; };
+	class SMG_05_F					  				        { quality = 1; price = 150; };
 	class U_B_CTRG_Soldier_2_F        				{ quality = 2; price = 40; };
 	class U_B_CTRG_Soldier_3_F        				{ quality = 2; price = 40; };
 	class U_B_CTRG_Soldier_F          				{ quality = 2; price = 40; };
@@ -199,7 +199,7 @@
 	class srifle_DMR_07_hex_F         				{ quality = 4; price = 750; };
 	class srifle_GM6_ghex_F           				{ quality = 6; price = 900; };
 	class srifle_LRR_tna_F            				{ quality = 6; price = 850; };
-	
+
 	// Jets DLC items
 	class V_DeckCrew_blue_F							{ quality = 2; price = 30; };
 	class V_DeckCrew_brown_F						{ quality = 2; price = 30; };

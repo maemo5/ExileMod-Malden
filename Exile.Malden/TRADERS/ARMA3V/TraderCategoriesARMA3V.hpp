@@ -46,7 +46,7 @@
 			"C_Offroad_01_white_F",
 			"C_Offroad_default_F",
 			"C_Offroad_luxe_F",
-			"C_Offroad_stripped_F",		
+			"C_Offroad_stripped_F",
 			"C_Quadbike_01_F",
 			"C_Quadbike_01_black_F",
 			"C_Quadbike_01_blue_F",
@@ -136,18 +136,18 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] =
 		{
-			"B_APC_Wheeled_01_cannon_F",
+			//"B_APC_Wheeled_01_cannon_F",
 			"B_G_Offroad_01_armed_F",
 			"B_MRAP_01_gmg_F",
 			"B_MRAP_01_hmg_F",
-			"I_APC_Wheeled_03_cannon_F",
+			//"I_APC_Wheeled_03_cannon_F",
 			"I_MRAP_03_gmg_F",
 			"I_MRAP_03_hmg_F",
 			"O_G_Offroad_01_armed_F",
-			"O_MRAP_02_gmg_F",
-			"O_MRAP_02_hmg_F",
-			"O_T_MRAP_02_gmg_ghex_F",
-			"O_T_MRAP_02_hmg_ghex_F"
+			//"O_MRAP_02_gmg_F",
+			//"O_MRAP_02_hmg_F",
+			//"O_T_MRAP_02_gmg_ghex_F",
+			//"O_T_MRAP_02_hmg_ghex_F"
 		};
 	};
 
@@ -271,7 +271,7 @@
 			"C_Heli_light_01_wasp_F",
 			"C_Heli_light_01_wave_F",
 			"I_Heli_light_03_unarmed_F",
-			"O_Heli_Light_02_dynamicLoadout_F",			
+			"O_Heli_Light_02_dynamicLoadout_F",
 			"O_Heli_Transport_04_F",
 			"O_Heli_Transport_04_ammo_F",
 			"O_Heli_Transport_04_ammo_black_F",
@@ -298,9 +298,9 @@
 		items[] =
 		{
 			//"B_Heli_Attack_01_F",							// disabled for newer version
-			"B_Heli_Attack_01_dynamicLoadout_F",
+			//"B_Heli_Attack_01_dynamicLoadout_F",
 			//"B_Heli_Light_01_armed_F",					// disabled for newer version
-			"B_Heli_Light_01_dynamicLoadout_F",
+			//"B_Heli_Light_01_dynamicLoadout_F",
 			"B_Heli_Transport_01_F",
 			"B_Heli_Transport_01_camo_F",
 			"B_Heli_Transport_03_F",
@@ -310,8 +310,8 @@
 			"I_Heli_light_03_dynamicLoadout_F",
 			//"O_Heli_Attack_02_F",							// disabled for newer version
 			//"O_Heli_Attack_02_black_F",					// disabled for newer version
-			"O_Heli_Attack_02_dynamicLoadout_F",
-			"O_Heli_Attack_02_dynamicLoadout_black_F",
+			//"O_Heli_Attack_02_dynamicLoadout_F",
+			//"O_Heli_Attack_02_dynamicLoadout_black_F",
 			"O_Heli_Light_02_F",
 			"O_Heli_Light_02_unarmed_F",
 			"O_Heli_Light_02_v2_F"

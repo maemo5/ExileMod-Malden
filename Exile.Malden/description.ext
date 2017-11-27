@@ -4,7 +4,7 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Server Settings - Modify at will
 ///////////////////////////////////////////////////////////////////////////////
-author = "Exile Mod Team";
+author = "by [FPS]kuplion";
 onLoadName = "Exile Mod";
 onLoadMission= "www.exilemod.com";
 loadScreen = "exile_assets\texture\mod\logo.paa";
@@ -64,27 +64,44 @@ showHUD[] =
     false,  // Commanding menu
     false,  // Group Bar
     true,   // HUD Weapon Cursors
-    false   // Squad Radar
+    true   // Vehicle Panel (Required for GPS)
+};
+#include "config.cpp"
+#include "ExAdClient\ExAd.cpp"
+#include "R3F_LOG\desc_include.h"
+class CfgFunctions
+{
+	#include "ExAdClient\CfgFunctions.cpp"
 };
 
-#include "config.cpp"
+class RscTitles
+{
+	#include "ExAdClient\RscTitles.cpp"
+};
+
+class CfgHints
+{
+	#include "ExAdClient\CfgHints.cpp"
+};
+
+class CfgNetworkMessages
+{
+	#include "ExAdClient\CfgNetworkMessages.cpp"
+};
 
 class CfgRemoteExec
 {
-    class Functions
-    {
-        mode = 1;
-        jip = 0;
-
-        class ExileServer_system_network_dispatchIncomingMessage
-        {
-            allowedTargets = 2;
-        };
-    };
-
-    class Commands
-    {
-		mode = 0;
+	class Functions
+	{
+		mode = 1;
 		jip = 0;
-    };
+
+		class ExileServer_system_network_dispatchIncomingMessage { allowedTargets=2; };
+		class ExAdServer_fnc_clientRequest { allowedTargets=2; };
+	};
+	class Commands
+	{
+		mode=0;
+		jip=0;
+	};
 };

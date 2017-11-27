@@ -1,9 +1,9 @@
-/**
+**
  * ExileClient_system_lootManager_thread_spawn
  *
  * Exile Mod
  * www.exilemod.com
- * Â© 2015 Exile Mod Team
+ * © 2015 Exile Mod Team
  *
  * This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. 
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
@@ -50,4 +50,4 @@ forEach _buildings;
 if ((count _buildingNetIdsToSpawnLootIn) > 0) then 
 {
     ["spawnLootRequest", [_buildingNetIdsToSpawnLootIn]] call ExileClient_system_network_send;
-};
+}; 
