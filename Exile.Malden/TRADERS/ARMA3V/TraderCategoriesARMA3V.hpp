@@ -327,7 +327,7 @@
 			//"B_Plane_CAS_01_F",						// disabled for newer version
 			//"B_Plane_CAS_01_dynamicLoadout_F",
 			"GNT_C185",
-			"GNT_C185F",
+			"GNT_C185F"
 			//"GNT_C185T",
 			//"I_Plane_Fighter_03_AA_F",
 			//"I_Plane_Fighter_03_CAS_F",
