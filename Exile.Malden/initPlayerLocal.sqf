@@ -70,5 +70,4 @@ private _npcs = [
 forEach _npcs;
 
 
-[] execVM "statusIcons\statusIcons.sqf";
 call compile preprocessfilelinenumbers "zcp.sqf";
