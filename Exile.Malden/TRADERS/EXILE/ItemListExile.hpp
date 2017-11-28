@@ -781,11 +781,11 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class LMG_Mk200_F								{ quality = 2; price = 300; };
 	class LMG_Zafir_F								{ quality = 3; price = 350; };
-	class MMG_01_hex_F								{ quality = 6; price = 800; };
-	class MMG_01_tan_F								{ quality = 6; price = 800; };
-	class MMG_02_black_F							{ quality = 6; price = 450; };
-	class MMG_02_camo_F								{ quality = 5; price = 450; };
-	class MMG_02_sand_F								{ quality = 5; price = 450; };
+	class MMG_01_hex_F								{ quality = 6; price = 15000; };
+	class MMG_01_tan_F								{ quality = 6; price = 15000; };
+	class MMG_02_black_F							{ quality = 6; price = 10000; };
+	class MMG_02_camo_F								{ quality = 6; price = 10000; };
+	class MMG_02_sand_F								{ quality = 6; price = 10000; };
 	class arifle_MX_SW_Black_F						{ quality = 2; price = 250; };
 	class arifle_MX_SW_F							{ quality = 2; price = 250; };
 
@@ -817,33 +817,33 @@
 	///////////////////////////////////////////////////////////////////////////////
 	class arifle_MXM_Black_F 						{ quality = 2; price = 550; };
 	class arifle_MXM_F 								{ quality = 2; price = 550; };
-	class srifle_DMR_01_F 							{ quality = 3; price = 600; };
-	class srifle_DMR_02_F 							{ quality = 3; price = 800; };
-	class srifle_DMR_02_camo_F 						{ quality = 3; price = 800; };
-	class srifle_DMR_02_sniper_F 					{ quality = 3; price = 800; };
-	class srifle_DMR_03_F 							{ quality = 3; price = 750; };
-	class srifle_DMR_03_khaki_F 					{ quality = 3; price = 750; };
-	class srifle_DMR_03_multicam_F 					{ quality = 3; price = 750; };
-	class srifle_DMR_03_tan_F 						{ quality = 3; price = 750; };
-	class srifle_DMR_03_woodland_F 					{ quality = 3; price = 750; };
-	class srifle_DMR_04_F 							{ quality = 4; price = 700; };
-	class srifle_DMR_04_Tan_F 						{ quality = 4; price = 700; };
-	class srifle_DMR_05_blk_F 						{ quality = 4; price = 850; };
-	class srifle_DMR_05_hex_F 						{ quality = 4; price = 850; };
-	class srifle_DMR_05_tan_f 						{ quality = 4; price = 850; };
-	class srifle_DMR_06_camo_F 						{ quality = 5; price = 800; };
-	class srifle_DMR_06_olive_F 					{ quality = 5; price = 800; };
-	class srifle_EBR_F 								{ quality = 3; price = 700; };
-	class srifle_GM6_F 								{ quality = 6; price = 900; };
-	class srifle_GM6_camo_F 						{ quality = 6; price = 900; };
-	class srifle_LRR_F 								{ quality = 6; price = 850; };
-	class srifle_LRR_camo_F 						{ quality = 6; price = 850; };
+	class srifle_DMR_01_F 							{ quality = 3; price = 2200; };
+	class srifle_DMR_02_F 							{ quality = 3; price = 10000; };
+	class srifle_DMR_02_camo_F 						{ quality = 3; price = 10000; };
+	class srifle_DMR_02_sniper_F 					{ quality = 3; price = 10000; };
+	class srifle_DMR_03_F 							{ quality = 3; price = 2200; };
+	class srifle_DMR_03_khaki_F 					{ quality = 3; price = 2200; };
+	class srifle_DMR_03_multicam_F 					{ quality = 3; price = 2200; };
+	class srifle_DMR_03_tan_F 						{ quality = 3; price = 2200; };
+	class srifle_DMR_03_woodland_F 					{ quality = 3; price = 2200; };
+	class srifle_DMR_04_F 							{ quality = 4; price = 6000; };
+	class srifle_DMR_04_Tan_F 						{ quality = 4; price = 6000; };
+	class srifle_DMR_05_blk_F 						{ quality = 4; price = 12000; };
+	class srifle_DMR_05_hex_F 						{ quality = 4; price = 12000; };
+	class srifle_DMR_05_tan_f 						{ quality = 4; price = 12000; };
+	class srifle_DMR_06_camo_F 						{ quality = 5; price = 2200; };
+	class srifle_DMR_06_olive_F 					{ quality = 5; price = 2200; };
+	class srifle_EBR_F 								{ quality = 3; price = 2200; };
+	class srifle_GM6_F 								{ quality = 6; price = 25000; };
+	class srifle_GM6_camo_F 						{ quality = 6; price = 25000; };
+	class srifle_LRR_F 								{ quality = 6; price = 20000; };
+	class srifle_LRR_camo_F 						{ quality = 6; price = 20000; };
 
 	///////////////////////////////////////////////////////////////////////////////
 	// ArmA 2 Weapons
 	///////////////////////////////////////////////////////////////////////////////
-	class Exile_Weapon_AK107						{ quality = 1; price = 300; };
-	class Exile_Weapon_AK107_GL						{ quality = 2; price = 400; };
+	class Exile_Weapon_AK107						{ quality = 1; price = 800; };
+	class Exile_Weapon_AK107_GL						{ quality = 2; price = 800; };
 	class Exile_Weapon_AK47							{ quality = 3; price = 500; };
 	class Exile_Weapon_AK74							{ quality = 2; price = 350; };
 	class Exile_Weapon_AK74_GL						{ quality = 2; price = 400; };
@@ -864,7 +864,7 @@
 	class Exile_Weapon_RPK							{ quality = 2; price = 250; };
 	class Exile_Weapon_SA61							{ quality = 1; price = 150; };
 	class Exile_Weapon_SVD							{ quality = 4; price = 800; };
-	class Exile_Weapon_SVDCamo						{ quality = 4; price = 850; };
+	class Exile_Weapon_SVDCamo						{ quality = 4; price = 800; };
 	class Exile_Weapon_Taurus						{ quality = 1; price = 100; };
 	class Exile_Weapon_TaurusGold					{ quality = 1; price = 150; };
 	class Exile_Weapon_VSSVintorez					{ quality = 3; price = 600; };
@@ -880,11 +880,11 @@
 	class Exile_Magazine_10Rnd_762x54					{ quality = 1; price = 20; };
 	class Exile_Magazine_10Rnd_765x17_SA61				{ quality = 1; price = 10; };
 	class Exile_Magazine_10Rnd_9x39						{ quality = 1; price = 150; };
-	class Exile_Magazine_20Rnd_762x51_DMR				{ quality = 3; price = 20; };
-	class Exile_Magazine_20Rnd_762x51_DMR_Green			{ quality = 3; price = 20; };
-	class Exile_Magazine_20Rnd_762x51_DMR_Red			{ quality = 3; price = 20; };
-	class Exile_Magazine_20Rnd_762x51_DMR_Yellow		{ quality = 3; price = 20; };
-	class Exile_Magazine_20Rnd_765x17_SA61				{ quality = 1; price = 20; };
+	class Exile_Magazine_20Rnd_762x51_DMR				{ quality = 3; price = 50; };
+	class Exile_Magazine_20Rnd_762x51_DMR_Green			{ quality = 3; price = 50; };
+	class Exile_Magazine_20Rnd_762x51_DMR_Red			{ quality = 3; price = 50; };
+	class Exile_Magazine_20Rnd_762x51_DMR_Yellow		{ quality = 3; price = 50; };
+	class Exile_Magazine_20Rnd_765x17_SA61				{ quality = 1; price = 50; };
 	class Exile_Magazine_20Rnd_9x39						{ quality = 1; price = 175; };
 	class Exile_Magazine_30Rnd_545x39_AK				{ quality = 1; price = 20; };
 	class Exile_Magazine_30Rnd_545x39_AK_Green			{ quality = 1; price = 20; };
@@ -893,8 +893,8 @@
 	class Exile_Magazine_30Rnd_545x39_AK_Yellow			{ quality = 1; price = 20; };
 	class Exile_Magazine_30Rnd_762x39_AK				{ quality = 3; price = 20; };
 	class Exile_Magazine_45Rnd_545x39_RPK_Green			{ quality = 1; price = 20; };
-	class Exile_Magazine_5Rnd_127x108_APDS_KSVK			{ quality = 3; price = 250; };
-	class Exile_Magazine_5Rnd_127x108_KSVK				{ quality = 3; price = 200; };
+	class Exile_Magazine_5Rnd_127x108_APDS_KSVK			{ quality = 3; price = 175; };
+	class Exile_Magazine_5Rnd_127x108_KSVK				{ quality = 3; price = 175; };
 	class Exile_Magazine_5Rnd_22LR						{ quality = 1; price = 20; };
 	class Exile_Magazine_6Rnd_45ACP						{ quality = 1; price = 20; };
 	class Exile_Magazine_75Rnd_545x39_RPK_Green			{ quality = 1; price = 20; };

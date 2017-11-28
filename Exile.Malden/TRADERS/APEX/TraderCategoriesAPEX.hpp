@@ -306,11 +306,11 @@ class ApexCars
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		"B_T_LSV_01_armed_F",
+/* 		"B_T_LSV_01_armed_F",
 		"B_T_LSV_01_unarmed_F",
 		"C_Offroad_02_unarmed_F",
 		"O_T_LSV_02_armed_F",
-		"O_T_LSV_02_unarmed_F"
+		"O_T_LSV_02_unarmed_F" */
 	};
 };
 
