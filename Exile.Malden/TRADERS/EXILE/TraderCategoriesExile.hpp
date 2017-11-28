@@ -980,9 +980,7 @@
 			"LMG_Mk200_F",
 			"LMG_Zafir_F",
 			"arifle_MX_SW_Black_F",
-			"arifle_MX_SW_F"
-
-			/*
+			"arifle_MX_SW_F",
 			"MMG_01_hex_F",
 			"MMG_01_tan_F",
 			"MMG_02_black_F",
