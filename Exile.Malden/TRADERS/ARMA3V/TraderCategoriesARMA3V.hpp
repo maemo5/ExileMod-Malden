@@ -138,11 +138,11 @@
 		{
 			//"B_APC_Wheeled_01_cannon_F",
 			"B_G_Offroad_01_armed_F",
-			/* "B_MRAP_01_gmg_F",
+			"B_MRAP_01_gmg_F",
 			"B_MRAP_01_hmg_F",
-			"I_APC_Wheeled_03_cannon_F",
-			"I_MRAP_03_gmg_F",
-			"I_MRAP_03_hmg_F", */
+			//"I_APC_Wheeled_03_cannon_F",
+			//"I_MRAP_03_gmg_F",
+			"I_MRAP_03_hmg_F",
 			"O_G_Offroad_01_armed_F"
 			//"O_MRAP_02_gmg_F",
 			//"O_MRAP_02_hmg_F",

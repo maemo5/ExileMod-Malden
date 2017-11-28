@@ -12,7 +12,6 @@
 	class 200Rnd_556x45_Box_Tracer_F                { quality = 1; price = 90; };
 	class 200Rnd_556x45_Box_Tracer_Red_F            { quality = 1; price = 90; };
 	class 20Rnd_650x39_Cased_Mag_F                  { quality = 4; price = 20; };
-	class 20Rnd_650x38_Cased_Mag_F                  { quality = 4; price = 20; };
 	class 30Rnd_545x39_Mag_F                        { quality = 1; price = 10; };
 	class 30Rnd_545x39_Mag_Green_F                  { quality = 1; price = 10; };
 	class 30Rnd_545x39_Mag_Tracer_F                 { quality = 1; price = 10; };
@@ -140,7 +139,6 @@
 	class arifle_AKM_F                				{ quality = 3; price = 400; };
 	class arifle_AKM_FL_F             				{ quality = 3; price = 400; };
 	class arifle_AKS_F                				{ quality = 3; price = 350; };
-	class arifle_MX_SW_khk_F                		{ quality = 3; price = 350; };
 	class arifle_ARX_blk_F            				{ quality = 5; price = 900; };
 	class arifle_ARX_ghex_F           				{ quality = 5; price = 900; };
 	class arifle_ARX_hex_F            				{ quality = 5; price = 900; };
@@ -200,7 +198,7 @@
 	class srifle_DMR_07_ghex_F        				{ quality = 4; price = 750; };
 	class srifle_DMR_07_hex_F         				{ quality = 4; price = 750; };
 	class srifle_GM6_ghex_F           				{ quality = 6; price = 900; };
-	class srifle_LRR_tna_F            				{ quality = 6; price = 20000; };
+	class srifle_LRR_tna_F            				{ quality = 6; price = 850; };
 
 	// Jets DLC items
 	class V_DeckCrew_blue_F							{ quality = 2; price = 30; };
