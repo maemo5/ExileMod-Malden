@@ -4,7 +4,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 		items[] = 
 		{
-			"Exile_Item_ConcreteDoorwayKit",
+			"Exile_Item_ConcreteDoorKit",
 			"Exile_Item_ConcreteFloorKit",
 			"Exile_Item_ConcreteFloorPortKit",
 			"Exile_Item_ConcreteGateKit",
