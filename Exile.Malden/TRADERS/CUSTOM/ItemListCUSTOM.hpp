@@ -2,7 +2,7 @@
 	// Building Supplies
 	///////////////////////////////////////////////////////////////////////////////	
 	//class Exile_Item_WoodDrawBridgeKit					{ quality = 1; price = 750; };
-	class Exile_Item_ConcreteDoorwayKit					{ quality = 3; price = 6000; };
+	class Exile_Item_ConcreteDoorKit					{ quality = 3; price = 6000; };
 	class Exile_Item_ConcreteFloorKit           		{ quality = 3; price = 6000; };
 	class Exile_Item_ConcreteFloorPortKit       		{ quality = 3; price = 6000; };
 	class Exile_Item_ConcreteGateKit            		{ quality = 3; price = 6000; };
