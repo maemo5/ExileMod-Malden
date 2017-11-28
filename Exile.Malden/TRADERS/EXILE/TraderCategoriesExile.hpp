@@ -511,24 +511,27 @@
 			"Exile_Item_CamoTentKit",
 			"Exile_Item_CodeLock",
 			"Exile_Item_DuctTape",
+			"Exile_Item_Cement",
 			"Exile_Item_ExtensionCord",
 			"Exile_Item_FuelCanisterEmpty",
 			"Exile_Item_JunkMetal",
 			"Exile_Item_LightBulb",
 			"Exile_Item_MetalBoard",
+			"Exile_Item_Sand",
+			"Exile_Item_WaterCanisterDirtyWater",
+			"Exile_Item_FuelCanisterFull",
+			"Exile_Item_Laptop",
+			"Exile_Item_BaseCameraKit",
 			"Exile_Item_MetalPole",
 			"Exile_Item_MetalScrews",
 			"Exile_Item_SafeKit"
+			
 
 			/*
 			--Not for Sale--
-			"Exile_Item_BaseCameraKit",
-			"Exile_Item_Cement",
-			"Exile_Item_Laptop",
 			"Exile_Item_MetalHedgehogKit",
 			"Exile_Item_MetalWire",
 			"Exile_Item_MobilePhone",
-			"Exile_Item_Sand",
 			--Unused--
 			"Exile_Item_Carwheel",
 			"Exile_Item_CordlessScrewdriver",
@@ -660,7 +663,7 @@
 			"Exile_Item_CanOpener",
 			"Exile_Item_CookingPot",
 			"Exile_Item_Foolbox",
-			"Exile_Item_Grinder",
+			//"Exile_Item_Grinder",
 			"Exile_Item_Handsaw",
 			"Exile_Item_Matches",
 			"Exile_Item_Pliers",
@@ -700,10 +703,8 @@
 			"Exile_Item_Bandage",
 			"Exile_Item_Heatpack",
 			"Exile_Item_InstaDoc",
-			"Exile_Item_Vishpirin"
-
-			// Not available in 0.9.4!
-			//"Exile_Item_Defibrillator"
+			"Exile_Item_Vishpirin",
+			"Exile_Item_Defibrillator"
 		};
 	};
 
@@ -830,6 +831,14 @@
 			"Exile_Magazine_30Rnd_545x39_AK_Green",
 			"Exile_Magazine_30Rnd_545x39_AK_Red",
 			"Exile_Magazine_30Rnd_545x39_AK_White",
+			"Exile_Magazine_10Rnd_127x99_m107_Bullet_Cam_Mag",
+			"Exile_Magazine_10Rnd_338_Bullet_Cam_Mag", 
+			"Exile_Magazine_10Rnd_93x64_DMR_05_Bullet_Cam_Mag",
+			"Exile_Magazine_5Rnd_127x108_APDS_Bullet_Cam_Mag",
+			"Exile_Magazine_5Rnd_127x108_APDS_KSVK_Bullet_Cam_Mag",
+			"Exile_Magazine_5Rnd_127x108_Bullet_Cam_Mag",
+			"Exile_Magazine_5Rnd_127x108_KSVK_Bullet_Cam_Mag",
+			"Exile_Magazine_7Rnd_408_Bullet_Cam_Mag",		
 			"Exile_Magazine_30Rnd_545x39_AK_Yellow",
 			"Exile_Magazine_30Rnd_762x39_AK",
 			"Exile_Magazine_45Rnd_545x39_RPK_Green",
@@ -838,9 +847,9 @@
 			"Exile_Magazine_75Rnd_545x39_RPK_Green",
 			"Exile_Magazine_7Rnd_45ACP",
 			"Exile_Magazine_8Rnd_74Slug",
-			"Exile_Magazine_8Rnd_9x18"
-			//"130Rnd_338_Mag", SPMG
-			//"150Rnd_93x64_Mag", // NAVID
+			"Exile_Magazine_8Rnd_9x18",
+			"130Rnd_338_Mag", 
+			"150Rnd_93x64_Mag" 
 			//"Exile_Magazine_8Rnd_74Pellets",
 		};
 	};
@@ -1057,6 +1066,8 @@
 			"srifle_DMR_05_tan_f",
 			"srifle_DMR_06_camo_F",
 			"srifle_DMR_06_olive_F",
+			"Exile_Weapon_ksvk",
+			"Exile_Weapon_m107",
 			"srifle_EBR_F",
 			"srifle_GM6_F",
 			"srifle_GM6_camo_F",
@@ -1083,12 +1094,13 @@
 		items[] =
 		{
 			"Exile_Bike_QuadBike_Black",
-			"Exile_Car_BRDM2_HQ",
+			//"Exile_Car_BRDM2_HQ",
 			"Exile_Car_BTR40_Green",
+			"Exile_Car_BTR40_Camo",
 			"Exile_Car_BTR40_MG_Green",
 			"Exile_Car_Golf_Red",
 			"Exile_Car_HMMWV_M134_Green",
-			"Exile_Car_HMMWV_M2_Green",
+			//"Exile_Car_HMMWV_M2_Green",
 			"Exile_Car_HMMWV_MEV_Green",
 			"Exile_Car_HMMWV_UNA_Green",
 			"Exile_Car_Hatchback_Rusty1",

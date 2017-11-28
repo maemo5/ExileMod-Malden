@@ -33,10 +33,10 @@
 	///////////////////////////////////////////////////////////////////////////////
 	// Launcher Ammo
 	///////////////////////////////////////////////////////////////////////////////
-	class NLAW_F									{ quality = 1; price = 3000; };
-	class RPG32_F									{ quality = 1; price = 3000; };
-	class RPG32_HE_F                                { quality = 1; price = 3000; };
-	class Titan_AA									{ quality = 1; price = 3000; };
-	class Titan_AP									{ quality = 1; price = 3000; };	
-	class Titan_AT									{ quality = 1; price = 3000; };
+	class NLAW_F									{ quality = 1; price = 5000; };
+	class RPG32_F									{ quality = 1; price = 5000; };
+	class RPG32_HE_F                                { quality = 1; price = 5000; };
+	class Titan_AA									{ quality = 1; price = 5000; };
+	class Titan_AP									{ quality = 1; price = 5000; };	
+	class Titan_AT									{ quality = 1; price = 5000; };
 	

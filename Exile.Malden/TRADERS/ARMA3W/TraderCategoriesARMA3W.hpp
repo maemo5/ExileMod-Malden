@@ -14,7 +14,7 @@
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\cargothrow_ca.paa";
 		items[] = 
 		{
-			"launch_B_Titan_F",
+			/* "launch_B_Titan_F",
 			"launch_B_Titan_short_F",
 			"launch_I_Titan_F",
 			"launch_I_Titan_short_F",
@@ -23,7 +23,7 @@
 			"launch_O_Titan_short_F",
 			"launch_RPG32_F",
 			"launch_Titan_F",
-			"launch_Titan_short_F"
+			"launch_Titan_short_F" */
 		};
 	};	
 	

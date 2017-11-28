@@ -11,7 +11,8 @@
 			"Exile_Item_ConcreteStairsKit",
 			"Exile_Item_ConcreteSupportKit",
 			"Exile_Item_ConcreteWallKit",
-			"Exile_Item_MetalHedgehogKit",
+			/* "Exile_Item_MetalHedgehogKit", */
+			"Exile_Item_ConcreteWindowkit",
 			"Exile_Item_WoodDoorKit",
 			"Exile_Item_WoodDoorwayKit",
 			"Exile_Item_WoodFloorKit",
@@ -21,9 +22,9 @@
 			"Exile_Item_WoodSupportKit",
 			"Exile_Item_WoodWallHalfKit",
 			"Exile_Item_WoodWallKit",
-			"Exile_Item_WoodWindowKit",
-			"Exile_Item_WorkBenchKit"
-			//"Exile_Item_WoodDrawBridgeKit",
+			"Exile_Item_WoodWindowKit"
+			/* "Exile_Item_WorkBenchKit", */
+			/* "Exile_Item_WoodDrawBridgeKit" */
 		};
 	};
 	

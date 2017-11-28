@@ -1558,7 +1558,7 @@ class CfgExileAnimals
 	/**
 	 * Should animals spawn on your server? Y/N?
 	 */
-	enabled = 1;
+	enabled = 0;
 
 	/**
 	 * Should vanilla Arma animals (fish, rabbits, bees, etc.) be disabled?
@@ -1798,7 +1798,7 @@ class CfgExileEnvironment
 	{
 		class FireFlies: FireFlies
 		{
-			enable = 1;
+			enable = 0;
 		};
 
 		class Anomalies: Anomalies
@@ -1818,7 +1818,7 @@ class CfgExileEnvironment
 
 		class Radiation: Radiation
 		{
-			enable = 0;
+			enable = 1;
 		};
 
 		class Temperature: Temperature
@@ -2798,8 +2798,8 @@ class CfgLocker
 class CfgPlayer
 {
 	// In minutes ammount of time it takes to go from 100 - 0 if stationary
-	hungerDecay = 90;
-	thirstDecay = 60;
+	hungerDecay = 120;
+	thirstDecay = 120;
 
 	// Damage taken from 0 (health||thirst)/sec
 	healthDecay = 5.0;
@@ -2815,7 +2815,7 @@ class CfgPlayer
 	// https://community.bistudio.com/wiki/Arma_3_Stamina
 	// Set to -1 if you want to use Arma 3 default value
 	// setCustomAimCoef
-	customAimCoefficient = 0.5;
+	customAimCoefficient = 0.1;
 
 	// 0 or 1
 	enableFatigue = 0;
