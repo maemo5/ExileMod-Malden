@@ -9,6 +9,7 @@ Copyright 2016, Lunchbox, All rights reserved.
             if (_playerUID in _buildRights) then
             {
 			_nextDueDate = _flag getVariable ["ExileTerritoryMaintenanceDue", [0, 0, 0, 0, 0]];
+			_name = _flag getVariable ["ExileTerritoryName", ""];
 			_dueDate = format 
 			[
 				"%2/%3/%1",
