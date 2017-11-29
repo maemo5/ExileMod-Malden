@@ -71,3 +71,7 @@ forEach _npcs;
 
 
 call compile preprocessfilelinenumbers "zcp.sqf";
+
+waitUntil {!isNull findDisplay 46 && !isNil 'ExileClientLoadedIn' && getPlayerUID player != ''};
+uiSleep 1;
+execVM "announcepay.sqf";
