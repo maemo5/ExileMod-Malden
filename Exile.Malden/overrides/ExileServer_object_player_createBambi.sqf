@@ -217,7 +217,7 @@ switch (true) do
     //Hunter
     {
      _bambiPlayer forceAddUniform "U_C_HunterBody_grn";
-     _bambiplayer addBackpack "B_HuntingBackpack";
+    // _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_EnergyDrink";
      _bambiplayer addItem "Exile_Item_Bandage";
@@ -233,7 +233,7 @@ switch (true) do
     //Worker
     {
      _bambiPlayer forceAddUniform "U_C_WorkerCoveralls";
-     _bambiplayer addBackpack "B_HuntingBackpack";
+    // _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -249,7 +249,7 @@ switch (true) do
     //Murderer
     {
      _bambiPlayer forceAddUniform "U_B_T_Soldier_F";
-     _bambiplayer addBackpack "B_HuntingBackpack";
+     //_bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
@@ -265,7 +265,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_T_Soldier_AR_F";
-     _bambiplayer addBackpack "B_HuntingBackpack";
+    // _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
@@ -280,7 +280,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_I_CombatUniform_shortsleeve";
-     _bambiplayer addBackpack "B_AssaultPack_dgtl";
+    // _bambiplayer addBackpack "B_AssaultPack_dgtl";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -296,7 +296,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_OfficerUniform_ocamo";
-     _bambiplayer addBackpack "B_FieldPack_ocamo";
+     //_bambiplayer addBackpack "B_FieldPack_ocamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
@@ -313,7 +313,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-     _bambiplayer addBackpack "B_TacticalPack_ocamo";
+    // _bambiplayer addBackpack "B_TacticalPack_ocamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
@@ -330,7 +330,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-     _bambiplayer addBackpack "B_Kitbag_mcamo";
+    // _bambiplayer addBackpack "B_Kitbag_mcamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -347,7 +347,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -364,7 +364,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_CTRG_Soldier_urb_2_F";
-     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_DuctTape";
@@ -381,7 +381,7 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_CTRG_Soldier_3_F";
-     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addItem "Exile_Item_Vishpirin";
