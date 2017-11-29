@@ -201,8 +201,6 @@
 	class srifle_DMR_07_hex_F         				{ quality = 4; price = 750; };
 	class srifle_GM6_ghex_F           				{ quality = 6; price = 900; };
 	class srifle_LRR_tna_F            				{ quality = 6; price = 20000; };
-	class C_Plane_Civil_01_F           				{ quality = 6; price = 20000; };
-	
 
 	// Jets DLC items
 	class V_DeckCrew_blue_F							{ quality = 2; price = 30; };

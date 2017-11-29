@@ -182,8 +182,8 @@
 			"RHSVests",
 			"TRYKVests", */
 			"Vests",
-			"A3Backpacks",
-			"APEXBackpacks", 
+			/* "A3Backpacks",
+			"APEXBackpacks", */
 			"Backpacks",
 			/* "CUPBackpacks",
 			"FFAAbackpack",
