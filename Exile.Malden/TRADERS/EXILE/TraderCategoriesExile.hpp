@@ -1,4 +1,4 @@
-	class Community
+w	class Community
 	{
 		name = "Community Items";
 		icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\uniform_ca.paa";
@@ -981,13 +981,11 @@
 			"LMG_Zafir_F",
 			"arifle_MX_SW_Black_F",
 			"arifle_MX_SW_F"
-
-			/*
-			"MMG_01_hex_F",
+			/* "MMG_01_hex_F",
 			"MMG_01_tan_F",
 			"MMG_02_black_F",
 			"MMG_02_camo_F",
-			"MMG_02_sand_F"
+			"MMG_02_sand_F" */
 			*/
 		};
 	};

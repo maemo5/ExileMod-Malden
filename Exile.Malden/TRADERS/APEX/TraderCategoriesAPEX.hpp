@@ -306,11 +306,11 @@ class ApexCars
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-/* 		"B_T_LSV_01_armed_F",
-		"B_T_LSV_01_unarmed_F",
-		"C_Offroad_02_unarmed_F",
-		"O_T_LSV_02_armed_F",
-		"O_T_LSV_02_unarmed_F" */
+		"B_T_LSV_01_armed_F",
+		//"B_T_LSV_01_unarmed_F",
+		//"C_Offroad_02_unarmed_F",
+		"O_T_LSV_02_armed_F"
+		//"O_T_LSV_02_unarmed_F" 
 	};
 };
 
@@ -321,7 +321,7 @@ class ApexChoppers
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		"B_T_VTOL_01_armed_F",
+		/* "B_T_VTOL_01_armed_F",
 		"B_T_VTOL_01_infantry_F",
 		"O_T_VTOL_02_infantry_F",
 		"O_T_VTOL_02_infantry_ghex_F",
@@ -330,7 +330,7 @@ class ApexChoppers
 		"O_T_VTOL_02_vehicle_F",
 		"O_T_VTOL_02_vehicle_ghex_F",
 		"O_T_VTOL_02_vehicle_grey_F",
-		"O_T_VTOL_02_vehicle_hex_F"
+		"O_T_VTOL_02_vehicle_hex_F" */
 	};
 };
 
@@ -351,7 +351,7 @@ class ApexPlanes
 	icon = "a3\ui_f\data\gui\Rsc\RscDisplayArsenal\itemacc_ca.paa";
 	items[] =
 	{
-		"C_Plane_Civil_01_F"
+		/* "C_Plane_Civil_01_F" */
 		/* Jets DLC
 		"V_DeckCrew_blue_F",
 		"V_DeckCrew_brown_F",
