@@ -3885,7 +3885,7 @@ class CfgSettings
 		 * 1 = On
 		 * 0 = Off
 		 */
-		parachuteSpawning = 1;
+		parachuteSpawning = 0;
 
 		/**
 		 * Enables or disables halo jumping. Only applies 
@@ -3898,7 +3898,7 @@ class CfgSettings
 		 * 1 = On
 		 * 0 = Off
 		 */
-		haloJump = 1;
+		haloJump =0;
 
 		/**
 		 * Parachute drop height in meters. 
