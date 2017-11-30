@@ -164,9 +164,9 @@
 	class arifle_SPAR_02_blk_F        				{ quality = 2; price = 550; };
 	class arifle_SPAR_02_khk_F        				{ quality = 2; price = 550; };
 	class arifle_SPAR_02_snd_F        				{ quality = 2; price = 550; };
-	class arifle_SPAR_03_blk_F        				{ quality = 3; price = 600; };
-	class arifle_SPAR_03_khk_F        				{ quality = 3; price = 600; };
-	class arifle_SPAR_03_snd_F        				{ quality = 3; price = 600; };
+	class arifle_SPAR_03_blk_F        				{ quality = 3; price = 2000; };
+	class arifle_SPAR_03_khk_F        				{ quality = 3; price = 2000; };
+	class arifle_SPAR_03_snd_F        				{ quality = 3; price = 2000; };
 	class bipod_01_F_khk              				{ quality = 2; price = 10; };
 	class hgun_P07_khk_F              				{ quality = 1; price = 65; };
 	class hgun_Pistol_01_F							{ quality = 1; price = 65; };
@@ -199,7 +199,7 @@
 	class srifle_DMR_07_blk_F         				{ quality = 4; price = 750; };
 	class srifle_DMR_07_ghex_F        				{ quality = 4; price = 750; };
 	class srifle_DMR_07_hex_F         				{ quality = 4; price = 750; };
-	class srifle_GM6_ghex_F           				{ quality = 6; price = 900; };
+	class srifle_GM6_ghex_F           				{ quality = 6; price = 25000; };
 	class srifle_LRR_tna_F            				{ quality = 6; price = 20000; };
 
 	// Jets DLC items
