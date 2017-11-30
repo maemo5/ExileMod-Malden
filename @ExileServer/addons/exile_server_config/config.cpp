@@ -981,11 +981,8 @@ class CfgBuildings
 		};
 	};
 };
+
 class CfgExileLootServer
-{
-	class LootTables
-	{
-class CfgExileLoot
 {
 	class LootTables
 	{

@@ -4,9 +4,9 @@
 ///////////////////////////////////////////////////////////////////////////////
 // Server Settings - Modify at will
 ///////////////////////////////////////////////////////////////////////////////
-author = "by [FPS]kuplion";
-onLoadName = "Exile Mod";
-onLoadMission= "www.exilemod.com";
+author = "Made by: Poptart, Aurora and Roush";
+onLoadName = "SuperChil";
+onLoadMission= "www.superchil.net";
 loadScreen = "exile_assets\texture\mod\logo.paa";
 disableChannels[] = {0, 2};
 OnLoadIntro = "";
