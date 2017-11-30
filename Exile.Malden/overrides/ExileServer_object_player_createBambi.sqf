@@ -138,7 +138,7 @@ switch (true) do
      {
      _bambiPlayer forceAddUniform "Exile_Uniform_BambiOverall";
      _bambiplayer addItem "Exile_Item_PlasticBottleFreshWater";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
      
@@ -152,7 +152,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_PlasticBottleFreshWater";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
     };
@@ -166,7 +166,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";  
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addHeadGear "H_Hat_blue";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
@@ -182,7 +182,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
     };
  
@@ -194,7 +194,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_Noodles";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
@@ -207,7 +207,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_Bandage";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiPlayer addMagazine "Exile_Magazine_8Rnd_9x18";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Makarov";
@@ -217,11 +217,11 @@ switch (true) do
     //Hunter
     {
      _bambiPlayer forceAddUniform "U_C_HunterBody_grn";
-    // _bambiplayer addBackpack "B_HuntingBackpack";
+     _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_EnergyDrink";
      _bambiplayer addItem "Exile_Item_Bandage";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Noodles";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiPlayer addMagazine "Exile_Magazine_8Rnd_9x18";
@@ -233,10 +233,10 @@ switch (true) do
     //Worker
     {
      _bambiPlayer forceAddUniform "U_C_WorkerCoveralls";
-    // _bambiplayer addBackpack "B_HuntingBackpack";
+     _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Bandage";
      _bambiplayer addItem "Exile_Item_BeefParts";
      _bambiplayer addItem "Exile_Item_CanOpener";
@@ -249,13 +249,13 @@ switch (true) do
     //Murderer
     {
      _bambiPlayer forceAddUniform "U_B_T_Soldier_F";
-     //_bambiplayer addBackpack "B_HuntingBackpack";
+     _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_Dogfood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiPlayer addMagazine "30Rnd_9x21_Mag";
      _bambiPlayer addMagazine "30Rnd_9x21_Mag";
      _bambiPlayer addWeaponGlobal "hgun_P07_F";
@@ -265,12 +265,12 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_T_Soldier_AR_F";
-    // _bambiplayer addBackpack "B_HuntingBackpack";
+     _bambiplayer addBackpack "B_HuntingBackpack";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_CatFood_Cooked";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "8Rnd_B_Beneli_74Pellets";
      _bambiPlayer addWeaponGlobal "M1014";
@@ -280,10 +280,10 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_I_CombatUniform_shortsleeve";
-    // _bambiplayer addBackpack "B_AssaultPack_dgtl";
+     _bambiplayer addBackpack "B_AssaultPack_dgtl";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_CatFood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
@@ -296,13 +296,13 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_OfficerUniform_ocamo";
-     //_bambiplayer addBackpack "B_FieldPack_ocamo";
+     _bambiplayer addBackpack "B_FieldPack_ocamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_GloriousKnakworst_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "20Rnd_556x45_UW_Mag";
      _bambiplayer addItem "20Rnd_556x45_UW_Mag";
      _bambiPlayer addWeaponGlobal "arifle_sdar_f";
@@ -313,7 +313,8 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-    // _bambiplayer addBackpack "B_TacticalPack_ocamo";
+     _bambiplayer addBackpack "B_TacticalPack_ocamo";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
      _bambiplayer addItem "Exile_Item_Vishpirin";
@@ -321,7 +322,7 @@ switch (true) do
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "CUP_30Rnd_556x45_Stanag";
      _bambiplayer addItem "CUP_30Rnd_556x45_Stanag";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiPlayer addWeaponGlobal "CUP_arifle_M16A4_Base";
      _bambiplayer addHeadGear "H_Booniehat_oli";
      _bambiPlayer addWeapon "NVGoggles";
@@ -330,10 +331,10 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-    // _bambiplayer addBackpack "B_Kitbag_mcamo";
+     _bambiplayer addBackpack "B_Kitbag_mcamo";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_DogFood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
@@ -347,10 +348,10 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_O_T_Officer_F";
-    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_DogFood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
@@ -364,10 +365,10 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_CTRG_Soldier_urb_2_F";
-    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PowerDrink";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_Vishpirin";
      _bambiplayer addItem "Exile_Item_DogFood_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
@@ -381,11 +382,11 @@ switch (true) do
     //Prisoner
     {
      _bambiPlayer forceAddUniform "U_B_CTRG_Soldier_3_F";
-    // _bambiplayer addBackpack "CUP_B_USPack_Coyote";
+     _bambiplayer addBackpack "CUP_B_USPack_Coyote";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_PlasticBottleCoffee";
      _bambiplayer addItem "Exile_Item_Vishpirin";
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Item_BBQSandwich_Cooked";
      _bambiplayer addItem "Exile_Item_CanOpener";
      _bambiplayer addItem "30Rnd_762x39_mag_tracer_F";
@@ -401,7 +402,7 @@ switch (true) do
      _bambiplayer forceadduniform "Exile_Uniform_BambiOverall";
      _bambiplayer addVest "V_Rangemaster_belt";
      _bambiplayer addItem "Exile_Item_Beer";   
-     _bambiplayer addItem "Exile_Item_DuctTape";
+     _bambiplayer addItem "Exile_Item_ExtensionCord";
      _bambiplayer addItem "Exile_Magazine_7Rnd_45ACP";
      _bambiPlayer addWeaponGlobal "Exile_Weapon_Colt1911";
      };
