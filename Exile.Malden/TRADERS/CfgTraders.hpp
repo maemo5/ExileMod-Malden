@@ -160,7 +160,7 @@
 			"FFAAHeadgear",
 			"GREFHeadgear",
 			"HAPHEADGEAR", */
-			/* "Headgear",
+			"Headgear",/*
 			"MASHeadgear",
 			"RHSHeadgear",
 			"TRYKHeadgear",
@@ -182,8 +182,8 @@
 			"RHSVests",
 			"TRYKVests", */
 			"Vests",
-			/* "A3Backpacks",
-			"APEXBackpacks", */
+			/* "A3Backpacks",*/
+			"APEXBackpacks", 
 			"Backpacks",
 			/* "CUPBackpacks",
 			"FFAAbackpack",
