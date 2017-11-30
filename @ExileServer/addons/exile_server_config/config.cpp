@@ -25,6 +25,42 @@ class CfgPatches
 
 class CfgBuildings
 {
+	class CivillianLowerClass {
+		table = "CivillianLowerClass";
+	};
+
+	class CivillianUpperClass {
+		table = "CivillianUpperClass";
+	};
+
+	class Factories {
+		table = "Factories";
+	};
+
+	class Industrial {
+		table = "Industrial";
+	};
+
+	class Medical {
+		table = "Medical";
+	};
+
+	class Military {
+		table = "Military";
+	};
+
+	class Shop {
+		table = "Shop";
+	};
+
+	class Tourist {
+		table = "Tourist";
+	};
+
+	class VehicleService {
+		table = "VehicleService";
+	}; 
+	
 	class Land_MilOffices_V1_F: Military
 	{
 		positions[] =
